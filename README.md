@@ -15,7 +15,7 @@ Features
 * Delete Product
 * Category Mapping using JPA (`@ManyToOne`)
 * JPA Inheritance Strategies Implementation
-* DTO ↔ Entity Conversion
+* * DTO Mapping (External FakeStore API ↔ Internal DTO ↔ Entity)
 * External API Integration (FakeStore API)
 
 ---
@@ -56,7 +56,7 @@ Base class is not a table
 Common fields are inherited by child entities
 
 Tech Stack
-
+--------------
 * Java
 * Spring Boot
 * Spring Data JPA
@@ -137,7 +137,6 @@ Concepts Covered
 
 * REST API Design
 * Layered Architecture
-* DTO Pattern
 * JPA Relationships
 * External API Integration
 * Exception Handling
