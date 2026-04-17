@@ -145,9 +145,8 @@ Concepts Covered
 
 Future Enhancements
 
-* 🔐 Add Authentication (JWT)
-* 📄 Add Pagination & Sorting
-* 🐳 Docker Support
+* Add Authentication (JWT)
+* Add Pagination & Sorting
 
 ---
 Author
